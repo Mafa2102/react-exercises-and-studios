@@ -1,0 +1,15 @@
+.recipeAuthorBlock {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.recipeAuthorBlock img {
+    max-width: 25%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.imageUpdates {
+    object-fit: contain;
+}
+
