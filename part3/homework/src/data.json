@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Javascript",
+        "usefor": "web development, mobile development, and game development",
+        "importance": "Programmers can use this versatile language for front-end and back-end development.",
+        "link": "https://www.javascript.com/"
+    },
+    {
+        "name": "Python",
+        "usefor": "developing websites and software, task automation, data analysis, and data visualization",
+        "importance": "Python's popularity extends to industries like engineering, machine learning, finance, and data science and analysis. Developers value its flexibility,",
+        "link": "https://www.python.org/"
+
+    },
+    {
+        "name": "HTML",
+        "usefor": "used to structure a web page and its content",
+        "importance": "essential to establishing the organization and visual appeal of online pages",
+        "link": "https://html.com/"
+
+    },
+    {
+        "name": "SQL",
+        "usefor": "storing and processing information in a relational database",
+        "importance": "Many applications use SQL to update and retrieve data.",
+        "link": "https://www.mysql.com/"
+    }
+]
