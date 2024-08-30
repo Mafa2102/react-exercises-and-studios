@@ -1,7 +1,16 @@
-import recipedata from "./recipe.json";
+import recipeData from "./recipe.json";
+import './styling.css'
 
 function RecipeName() {
-  return recipedata;
+  const name = recipeData.map(recipe => {
+    return <h1 key={recipe.name}> {recipe.name}</h1>;
+  })
+  //return recipedata;
+  return (
+    <div>
+      {name}
+    </div>);
+
 }
 
 export default RecipeName;
